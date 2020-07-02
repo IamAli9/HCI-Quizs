@@ -6,7 +6,7 @@ StdID | Name
 **61869** | **Wajahat Ali Khalid**
 61933 | Talha Sarfaraz
 61913| Faizan Sidd
--    | Mohsin Ali
+00000| Mohsin Ali
 
 ## Scenario ##
 
